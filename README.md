@@ -59,6 +59,6 @@ I'm always open to connecting with fellow developers, tech enthusiasts, and anyo
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/NikosDev)
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-%20Gmail-red?style=flat&logo=gmail)](mailto:nikoskanakisdeveloper@gmail.com)
 
-![js-world](https://github.com/NikosDev/NikosDev/assets/16862640/6fbde104-95f9-4e70-96ba-f862c82a8d43)
+![js-bg](https://github.com/NikosDev/NikosDev/assets/16862640/a82f84ab-20c3-4bda-890e-77423bc09dea)
 
 
