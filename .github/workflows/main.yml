@@ -13,5 +13,7 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: "$SUPER_SECRET"
