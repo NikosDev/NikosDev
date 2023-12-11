@@ -49,7 +49,9 @@ I'm a passionate software engineer with a love for coding and a special affinity
 
 ## 📈 GitHub Stats
 
- 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ## 📫 Let's Connect
 
