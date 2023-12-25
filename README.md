@@ -1,6 +1,6 @@
 # Hi, my name is Nikos  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I'm a passionate software engineer with a love for coding and a special affinity for JavaScript. My journey in the world of software development brims with excitement, fueled by curiosity and an unwavering pursuit of creating efficient and elegant solutions.
+I'm a passionate software engineer with a love for coding and a special affinity for JavaScript. My journey in the world of software development brims with excitement, fueled by curiosity and an unwavering pursuit of creating efficient and elegant solutions. 
 
 👨‍💻 Software Engineer | 🚀 Node.js Developer | 💻 JavaScript Enthusiast | 🌐 Open Source Contributor
 
